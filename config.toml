@@ -1,0 +1,2 @@
+port=6080
+vnc="localhost:5900"
